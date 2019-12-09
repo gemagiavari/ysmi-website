@@ -1,0 +1,133 @@
+/* Body */
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+/* Navbar */
+.ysmi_logo {
+       
+    margin: 1.5% 5%;
+}
+
+.navbar {
+    padding: 2%;
+}
+
+
+/* Section 1 */
+.div_pic_doctor_rama {
+    
+    background-color: rgba(211, 211, 211,.5);
+}
+.rama_img {
+    width: 75%;
+
+}
+
+.right_column {
+    padding: 5% 7%;
+    text-align: justify;
+    
+}
+
+h1 {
+    line-height: 1.5;
+    font-weight: 900;
+    font-size: 3rem; 
+    color: #248BCC;
+}
+
+h3 {
+    margin: 5% 0 ;
+    color: #248BCC;
+    line-height: 1.5;
+    font-size: 1.3rem;
+    font-weight: 900;
+    
+}
+
+p {
+    line-height: 1.8rem;
+    color: #133363;
+}
+
+
+/* Our Services */
+h2 {
+    
+    color: #248BCC;
+    line-height: 1.5;
+    font-weight: 900;
+}
+
+em {
+    line-height: 1.8rem;
+    color: #133363;
+}
+
+
+.section_our_services {
+    text-align: center;
+    padding: 5%;
+    background-color: rgba(211, 211, 211,.5);
+
+}
+
+
+/* Founders Section */
+#founders {
+    text-align: center;
+    
+    color: #fff;
+}
+    
+.carousel-item {
+    padding: 7% 15%;
+}
+
+
+/* Opening Hours */
+.openinghours_time {
+      
+    background-color: rgba(211, 211, 211,.5);  
+    padding: 5% 1% ;
+}
+
+.tdheading {
+    color: #248BCC;
+    
+}
+
+td {
+    color: #133363; 
+}
+
+table {
+    font-size: 0.8rem;
+    background-color: #fff;
+      
+}
+
+
+/* Contact */
+.contact_us {
+    text-align: center;
+    padding: 5%;
+}
+
+/* Footer */
+.footer {
+    text-align: center;
+    padding: 4%;
+    background-color: rgba(211, 211, 211,.5);
+}
+
+
+
+  
+
+
+
+
+
